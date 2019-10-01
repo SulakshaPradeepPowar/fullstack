@@ -1,0 +1,26 @@
+body{
+    background-image: url(C:/Users/Sulaksha/Desktop/Project1/pixabay/images/aurora-borealis-1032517_960_720.jpg);
+  
+}
+ul{
+    list-style: none;
+    text-align: left; 
+}
+ul li{
+display: inline-block;
+margin: 10px;
+}
+#menu{
+    color: white;
+}
+#section1{
+    color: white;
+    text-align: center;
+    font-size: 20px;
+    padding-top: 100px;
+}
+#section2{
+    text-align: center;
+    padding-top: 100px;
+    color: white;
+}
